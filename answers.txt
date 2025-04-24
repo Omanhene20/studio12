@@ -1,0 +1,28 @@
+Name: Kwabena Adjei Omanhene-Gyimah
+
+
+SERVER OUPUT
+
+Server is listening...
+New connection established.
+Received: Hello, server!
+
+
+Server output showing multiple connections
+
+Server is listening...
+New connection established.
+Received: First message
+New connection established.
+Received: Second message
+New connection established.
+Received: Third message
+
+
+Server output demonstrating shutdown on "quit"
+
+Server is listening...
+New connection established.
+Received: quit
+Shutdown signal received.
+
